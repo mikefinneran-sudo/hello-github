@@ -64,10 +64,11 @@ git show HEAD
 
 ## Learning Goals
 - ✅ Create a repository
-- ✅ Add README documentation
-- ✅ Configure .gitignore
-- ✅ Add LICENSE
-- ✅ Make commits
+- ✅ Add README documentation  
+- ✅ Configure .gitignore properly
+- ✅ Add LICENSE file
+- ✅ Make meaningful commits
+- ✅ Work with issues and PRs
 
 ## License
 MIT License - See LICENSE file for details
